@@ -1,4 +1,4 @@
-# Guía de Inicio Rápido - MiniTorch Framework
+# Guía de Inicio Rápido - TenMiniTorc Framework
 
 Esta guía te ayudará a entrenar tu primer modelo en **menos de 5 minutos**.
 
