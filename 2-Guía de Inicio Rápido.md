@@ -327,8 +327,10 @@ set_backend('numba')  # Requiere: pip install numba
 
 ## Recursos Adicionales
 
-- **README Principal**: `README.md`
-- **Manual Completo**: `docs/MANUAL_DE_USO.md`
+- [**README Principal**](https://github.com/yoqer/TenMINAtor/README.md)
+
+- [**Manual Completo**](https://github.com/yoqer/TenMINAtor/blob/main/3-Manual%20de%20Uso%20TenMiNaTor.md)
+
 - **Código Fuente**: Todos los módulos en `models/`, `rl/`, `vllm/`
 - **Configuración**: `config.json`
 
