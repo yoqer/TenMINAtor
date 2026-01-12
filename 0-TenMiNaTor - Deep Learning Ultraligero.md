@@ -284,10 +284,9 @@ Crea un archivo `config.json` para configurar tu entrenamiento:
 
 Para documentación completa, visita:
 
-- **Manual de Uso**:
-   [MANUAL_DE_USO](https://github.com/yoqer/TenMINAtor/blob/main/3-Manual%20de%20Uso%20TenMiNaTor.md) 
+- [**Manual de Uso**](https://github.com/yoqer/TenMINAtor/blob/main/3-Manual%20de%20Uso%20TenMiNaTor.md) 
 
-(https://github.com/yoqer/tenminator/blob/main/MANUAL_DE_USO.md)
+
 - **Quickstart**: [QUICKSTART.md](https://github.com/yoqer/tenminator/blob/main/QUICKSTART.md)
 - **API Reference**: [docs/api.md](https://github.com/yoqer/tenminator/blob/main/docs/api.md)
 
