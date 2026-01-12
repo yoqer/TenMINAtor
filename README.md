@@ -6,7 +6,7 @@ Version: [Prueba](http://tenminator-votpvbfn.manus.space): (No funcional)
 
 Web oficial: [http://wAI.cAm](http://WAI.cam)
 
-#TenMINAtor entrena los modelos AnimAlia, del proyecto AlIAmAlIA. 
+# TenMINAtor entrena los modelos AnimAlia, del proyecto AlIAmAlIA. 
 
 
 La libreria TenMINAtor es el modelo especifico relacional, usado para el entrenamiento y re-entrenamiento de grandes o pequeños modelos de Procesamiento del Lenguaje Natural, (LMs); esencial para toda la traduccion en lenguajes terricolas muy conocidos y sus medios de comunicacion; como el Canal Nou, el Bisca Television o el  beoutQ. 
