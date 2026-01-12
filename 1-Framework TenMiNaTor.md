@@ -18,7 +18,11 @@ _**```markdown
 | **Integración con Herramientas Externas** | Compatibilidad con Unsloth, LangChain, y LangGraph. |
 | **vLLM y Transformer RLM** | Un motor de inferencia rápido y una arquitectura de Transformer avanzada. |
 
-## Instalación
+
+
+## [Instalación](https://github.com/yoqer/TenMINAtor/blob/main/0-TenMiNaTor%20-%20Deep%20Learning%20Ultraligero.md) 
+
+
 
 ```bash
 pip install -e .
