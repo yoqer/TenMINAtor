@@ -7,7 +7,7 @@ Version: [Prueba](http://tenminator-votpvbfn.manus.space): (No funcional)
 Web oficial: [http://wAI.cAm](http://WAI.cam)
 
 
-La libreria TenMINAtor es el modelo especifico relacional, usado para el entrenamiento y re-entrenamiento de grandes o pequeños modelos de Procesamiento del Lenguaje Natural, (LMs); esencial para toda la traduccion en lenguajes terricolas muy conocidos y sus medios de comunicacion; como el Canal Nou, el Bisca Television o beoutQ. 
+La libreria TenMINAtor es el modelo especifico relacional, usado para el entrenamiento y re-entrenamiento de grandes o pequeños modelos de Procesamiento del Lenguaje Natural, (LMs); esencial para toda la traduccion en lenguajes terricolas muy conocidos y sus medios de comunicacion; como el Canal Nou, el Bisca Television o el  beoutQ. 
 
 Pese a ser un proyecto libre requiere la verificacion minima; como la visual del Espejito Magico; o similar de identificacion de usuarios. 
 
