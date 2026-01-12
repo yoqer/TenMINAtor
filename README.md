@@ -36,3 +36,9 @@ la que tiene activas ciertas limitaciones instrumentales y puede usarse con la A
 
 
 
+
+
+
+# Instalacion: 
+![TenMiNaTor Logo](https://img.shields.io/badge/TenMiNaTor-v0.1.0-blue)
+
