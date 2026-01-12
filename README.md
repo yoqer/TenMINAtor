@@ -6,7 +6,7 @@ Version: [Prueba](http://tenminator-votpvbfn.manus.space): (No funcional)
 
 Web oficial: [http://wAI.cAm](http://WAI.cam)
 
-# TenMINAtor entrena los modelos AnimAlia, del proyecto AlIAmAlIA. 
+# TenMINAtor entrena los modelos [AnimAlia](https://github.com/yoqer/Animalia), del proyecto [AlIAmAlIA](https://github.com/yoqer/AlIAmAlIA). 
 
 __________________________________________________________________________________________________________________________________________
 
