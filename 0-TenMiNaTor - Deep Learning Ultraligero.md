@@ -1,8 +1,14 @@
 # TenMiNaTor - Framework de Deep Learning Ultraligero
 
+
+
 ![TenMiNaTor Logo](https://img.shields.io/badge/TenMiNaTor-v0.1.0-blue)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-green)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
+
+
+
+
 
 **TenMiNaTor** es un framework de Deep Learning inspirado en PyTorch, diseñado específicamente para dispositivos con almacenamiento limitado. Ofrece un motor de autograd completo, soporte multi-backend, y características avanzadas como Nested Learning, Relational Memory y vLLM para inferencia rápida.
 
