@@ -287,7 +287,9 @@ Para documentación completa, visita:
 - [**Manual de Uso**](https://github.com/yoqer/TenMINAtor/blob/main/3-Manual%20de%20Uso%20TenMiNaTor.md) 
 
 
-- **Quickstart**: [QUICKSTART.md](https://github.com/yoqer/tenminator/blob/main/QUICKSTART.md)
+- [**Quickstart**](https://github.com/yoqer/TenMINAtor/blob/main/2-Guía%20de%20Inicio%20Rápido.md) 
+
+
 - **API Reference**: [docs/api.md](https://github.com/yoqer/tenminator/blob/main/docs/api.md)
 
 ---
