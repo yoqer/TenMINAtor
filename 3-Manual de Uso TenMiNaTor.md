@@ -10,8 +10,8 @@ TenMiNaTor es un framework de Deep Learning diseñado para la flexibilidad y la 
 ## 2. Instalación
 
 ```bash
-# Clonar el repositorio (simulado)
-# git clone https://github.com/user/TenMiNaTor.git
+# Clonar el repositorio 
+# git clone https://github.com/yoqer/TenMiNaTor.git
 # cd TenMiNaTor
 
 # Instalar en modo editable
