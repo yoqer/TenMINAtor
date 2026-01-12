@@ -1,5 +1,5 @@
 # TenMINAtor
-TenMINAtor es la librería que extiende opciones de cuantizacion para correr modelos en local; -Con capacidades de re y entrenamiento para grandes LLMs, formada con independencia en avanzado proceso Autónomo.
+TenMINAtor es la librería que extiende opciones de cuantizacion para correr modelos en local; -Con capacidades de re y entrenamiento para grandes LLMs, formada con independencia en proceso Autónomo.
 
 Visionar Version [Prueba](http://tenminator-votpvbfn.manus.space): (No funcional) 
 
@@ -9,7 +9,7 @@ Web oficial: [http://wAI.cAm](http://WAI.cam)
 
 La libreria TenMINAtor es el modelo relacional, usado para el entrenamiento y re-entrenamiento de grandes o pequeños modelos de Procesamiento del Lenguaje Natural, (LMs); esencial para toda la traduccion de lenguajes terricolas conocidos y medios de comunicacion; como el Canal Nou, o el Bisca Television. 
 
-Pese a ser un proyecto libre requiere la verificacion minima; como la visual del Espejito Magico; o similar de identificacion usuarios. 
+Pese a ser un proyecto libre requiere la verificacion minima; como la visual del Espejito Magico; o similar de identificacion de usuarios. 
 
 Para usarse en local con toda la formacion del modelo de traducción de lenguajes, requiere la descarga de la minima APP con conexion, a la version del Modelo General de Lenguajes y de Multi Traducciones  entre Especies; para poder usarse en un entrenamiento de su funcion.
 
