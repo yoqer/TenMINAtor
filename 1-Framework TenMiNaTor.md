@@ -24,7 +24,8 @@ _**```markdown
 pip install -e .
 ```
 
-## [Uso Rápido](https://github.com/yoqer/TenMINAtor/blob/main/3-Manual%20de%20Uso%20TenMiNaTor.md) 
+## [Uso Rápido](https://github.com/yoqer/TenMINAtor/blob/main/2-Guía%20de%20Inicio%20Rápido.md) 
+
 
 ```python
 import numpy as np
