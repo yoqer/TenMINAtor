@@ -14,8 +14,8 @@ Pese a ser un proyecto libre requiere la verificacion minima; como la visual del
 Para usarse en local con toda la formacion del modelo de traducción de lenguajes, requiere la descarga de la minima APP con conexion, a la version del Modelo General de Lenguajes y de Multi Traducciones  entre Especies; para poder usarse en un entrenamiento de su funcion.
 
 
-Si deseas realizar otros entrenamientos especificos distintos, les sugerimos personalizar librerias especificas como [TenMiniTorch](http://github.com/yoqer/TenMiniTorch) ; como la base para cualquier otro proyecto; o la General extensa que entrena Gradientes y todas las funciones generalizadas; a la que pueden añadir cualquier Framework especifico de entrenamiento que usen: [TenMinaTorch](http://github.com/yoqer/TenMinaTorch) : la libreria general no personalizada para funcion de proposito de comunicacion y validacion razonal, como es #TenMINator, 
-la que tiene activas ciertas limitaciones instrumentales y puede usarse con la APP simple que pueden ver en el enlace de la Version [Prueba](http://tenminator-votpvbfn.manus.space).
+Si deseas realizar otros entrenamientos especificos distintos, les sugerimos personalizar librerias especificas como [TenMiniTorch](http://github.com/yoqer/TenMiniTorch) ; como la base para cualquier otro proyecto; o la General extensa que entrena Gradientes y todas las funciones generalizadas; a la que pueden añadir cualquier Framework especifico de entrenamiento que usen: [TenMinaTorch](http://github.com/yoqer/TenMinaTorch) : la libreria general no personalizada para funcion de proposito de comunicacion y validacion razonal, como es `TenMINator`, 
+la que tiene activas ciertas limitaciones instrumentales y puede usarse con la APP simple que pueden ver en el enlace de [Prueba](http://tenminator-votpvbfn.manus.space).
 
 
 
