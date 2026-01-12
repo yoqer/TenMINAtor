@@ -1,5 +1,5 @@
 # TenMINAtor
-TenMINAtor es la librería que extiende opciones de cuantizacion para correr modelos en local; -Con capacidades de re y entrenamiento para grandes LLMs, formada con independencia en proceso Autónomo.
+TenMINAtor es la librería que extiende opciones de cuantizacion para correr modelos en local; -Con capacidades de re y entrenamiento para grandes LLMs, formada con independencia para proceso Autónomo.
 
 Version: [Prueba](http://tenminator-votpvbfn.manus.space): (No funcional) 
 
