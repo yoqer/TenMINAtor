@@ -152,19 +152,20 @@ steering_hook.apply()
 (Esta sección se complementa con la documentación detallada de cada módulo y clase).
 ```**_
 
-# Puedes comenzar tu recolección especifica, Online o con su APP.
+# Puedes comenzar tu recolección especifica:
+# Online o con su APP.
+
 Click
 
 
-
-
-
 # Aplicar API
-Multi Click
+
+   Multi Click
 ```
 
-[<img width="1920" height="1920" alt="IMG_20251218_003049" src=/>](http://wAI.CaM) 
 
+
+[<img width="1920" height="1920" alt="IMG_20251218_003049" src="https://github.com/user-attachments/assets/1e31e9a9-2885-4530-ad4c-cd71f2b5f3a6"/>](http://wAI.CaM) 
 
 
 
