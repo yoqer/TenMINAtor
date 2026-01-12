@@ -11,8 +11,8 @@ TenMiNaTor es un framework de Deep Learning diseñado para la flexibilidad y la 
 
 ```bash
 # Clonar el repositorio 
-# git clone https://github.com/yoqer/TenMiNaTor.git
-# cd TenMiNaTor
+  git clone https://github.com/yoqer/TenMiNaTor.git
+  cd TenMiNaTor
 
 # Instalar en modo editable
 pip install -e .
@@ -147,7 +147,7 @@ steering_hook = SteeringHook(model.linear1, steering_vector, strength=0.1)
 steering_hook.apply()
 ```
 
-## 8. Documentación de la API
+## 8. Documentación de la API 
 
-(Esta sección se completaría con la documentación detallada de cada módulo y clase).
+(Esta sección se complementa con la documentación detallada de cada módulo y clase).
 ```**_
