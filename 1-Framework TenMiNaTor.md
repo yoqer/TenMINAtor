@@ -14,7 +14,7 @@ _**```markdown
 | **Gradientes por Capas y Steering** | Control granular sobre el proceso de entrenamiento, permitiendo la manipulación de gradientes y el "steering" de modelos. |
 | **Tokenización Flexible** | Opciones para el procesamiento de texto a nivel de carácter, palabra o byte. |
 | **Sistema de Memoria Relacional** | Un sistema de memoria diferenciable para el razonamiento sobre relaciones. |
-| **Control de Entrenamiento Avanzado (")[10x12]": Un sistema de control de entrenamiento interactivo con early stopping, checkpoints, y más. |
+| **Control de Entrenamiento Avanzado** [10x12]" |  Un sistema de control de entrenamiento interactivo con early stopping, checkpoints, y más. |
 | **Integración con Herramientas Externas** | Compatibilidad con Unsloth, LangChain, y LangGraph. |
 | **vLLM y Transformer RLM** | Un motor de inferencia rápido y una arquitectura de Transformer avanzada. |
 
@@ -24,7 +24,7 @@ _**```markdown
 pip install -e .
 ```
 
-## Uso Rápido
+## [Uso Rápido](https://github.com/yoqer/TenMINAtor/blob/main/3-Manual%20de%20Uso%20TenMiNaTor.md) 
 
 ```python
 import numpy as np
