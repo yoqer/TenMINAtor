@@ -45,5 +45,5 @@ print(output.shape)
 
 ## Documentación
 
-Para una guía más detallada, consulta el [MANUAL_DE_USO.md](docs/MANUAL_DE_USO.md).
+Para una guía más detallada, consulta el [MANUAL_DE_USO](https://github.com/yoqer/TenMINAtor/blob/main/3-Manual%20de%20Uso%20TenMiNaTor.md) 
 ```**_
