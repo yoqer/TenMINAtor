@@ -40,11 +40,11 @@ _____________________________________________________________________
 
 
 
-<![TenMiNaTor Logo](https://img.shields.io/badge/TenMiNaTor-v0.1.0-blue)
+![TenMiNaTor Logo](https://img.shields.io/badge/TenMiNaTor-v0.1.0-blue)
 
-# [Instalacion](https://github.com/yoqer/TenMINAtor/blob/main/0-TenMiNaTor%20-%20Deep%20Learning%20Ultraligero.md) 
+# [Instalación](https://github.com/yoqer/TenMINAtor/blob/main/0-TenMiNaTor%20-%20Deep%20Learning%20Ultraligero.md) 
 
-[<img width="1920" height="1920" alt="IMG_20251218_003049" src="https://github.com/user-attachments/assets/1e31e9a9-2885-4530-ad4c-cd71f2b5f3a6" />](https://youtu.be/yBdmdP2S7C8?si=5BZj7-ZoxDHTtFwJ)
+[<img width="1920" height="1920" alt="IMG_20251218_003049" src="https://github.com/user-attachments/assets/1e31e9a9-2885-4530-ad4c-cd71f2b5f3a6"/>](https://github.com/yoqer/TenMINAtor/blob/main/1-Framework%20TenMiNaTor.md) 
 
 
 
