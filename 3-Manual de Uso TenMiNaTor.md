@@ -156,4 +156,13 @@ steering_hook.apply()
 Click
 [http://wAI.cAm](http://WAI.cam)
 
+[<img width="1920" height="1920" alt="IMG_20251218_003049" src="https://github.com/user-attachments/assets/1e31e9a9-2885-4530-ad4c-cd71f2b5f3a6"/>](https://github.com/yoqer/TenMINAtor/blob/main/1-Framework%20TenMiNaTor.md) 
+
+
+# Aplicar API
+Multi Click
+
+
+
+
  
