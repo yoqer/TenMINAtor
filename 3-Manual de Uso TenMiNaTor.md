@@ -152,7 +152,6 @@ steering_hook.apply()
 (Esta sección se complementa con la documentación detallada de cada módulo y clase).
 ```**_
 
-```
 # Puedes comenzar tu recolección especifica:
 # Online o con su APP.
    Click
