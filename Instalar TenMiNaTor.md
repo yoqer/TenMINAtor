@@ -312,8 +312,7 @@ Este proyecto está licenciado bajo la Licencia MIT - ver el archivo [LICENSE](L
 
 ## 📞 Soporte
 
-- **Issues**: [GitHub Issues](https://github.com/yoqer/tenminator/issues)
-- **Discusiones**: [GitHub Discussions](https://github.com/yoqer/tenminator/discussions)
+- **Web de Almacenaje**  [WAI.cAm](http://wai.cam)
 - **Email**: Info@wAI.cAm
 
 ---
