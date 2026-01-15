@@ -19,7 +19,7 @@ pip install tenminator
 ### Instalación desde el Código Fuente
 
 ```bash
-git clone https://github.com/tu-usuario/tenminator.git
+git clone https://github.com/yoqer/tenminator.git
 cd tenminator
 pip install -e .
 ```
@@ -278,9 +278,9 @@ Crea un archivo `config.json` para configurar tu entrenamiento:
 
 Para documentación completa, visita:
 
-- **Manual de Uso**: [MANUAL_DE_USO.md](https://github.com/tu-usuario/tenminator/blob/main/MANUAL_DE_USO.md)
-- **Quickstart**: [QUICKSTART.md](https://github.com/tu-usuario/tenminator/blob/main/QUICKSTART.md)
-- **API Reference**: [docs/api.md](https://github.com/tu-usuario/tenminator/blob/main/docs/api.md)
+- **Manual de Uso**: [MANUAL_DE_USO.md](https://github.com/yoqer/tenminator/blob/main/MANUAL_DE_USO.md)
+- **Quickstart**: [QUICKSTART.md](https://github.com/yoqer/tenminator/blob/main/QUICKSTART.md)
+- **API Reference**: [docs/api.md](https://github.com/yoqer/tenminator/blob/main/docs/api.md)
 
 ---
 
@@ -312,9 +312,9 @@ Este proyecto está licenciado bajo la Licencia MIT - ver el archivo [LICENSE](L
 
 ## 📞 Soporte
 
-- **Issues**: [GitHub Issues](https://github.com/tu-usuario/tenminator/issues)
-- **Discusiones**: [GitHub Discussions](https://github.com/tu-usuario/tenminator/discussions)
-- **Email**: support@tenminator.dev
+- **Issues**: [GitHub Issues](https://github.com/yoqer/tenminator/issues)
+- **Discusiones**: [GitHub Discussions](https://github.com/yoqer/tenminator/discussions)
+- **Email**: Info@wAI.cAm
 
 ---
 
